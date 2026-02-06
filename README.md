@@ -1,0 +1,9 @@
+# React Notes App
+
+Web App that can add and delete notes
+
+https://paydendyer.github.io/react-notes-app
+## Technology Used:
+1. React.js
+2. CSS Grid
+3. Git
